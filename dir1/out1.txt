@@ -1,8 +1,0 @@
-cutawk
-dir1
-dir2
-dir3
-one
-oneone
-sedcommand
-trail
